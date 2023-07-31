@@ -4,13 +4,8 @@ I am a data analyst with experience in using various tools and technologies to c
 ## I have used Python, SQl, Power BI, Tableau, and Excel. 
 
 - Excel & Tableau  
-     **NYSE Project**
+     ## **NYSE Project**
     - _NYSE Analysis: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)_
-
-- Excel & Tableau  
-    * ### Instagram Clone Data Analysis Project
-        _Data Insertion SQL Script: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Intsagram%20Clone%20data%20Insertion%20-%20SQL)   
-      Data Exploration SQL Script:  [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Instagram%20clone%20data%20analysis%20-%20SQL)_
 
 3. SQL & Tableau  
     * ### Instagram Clone Data Analysis Project
