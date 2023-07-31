@@ -7,5 +7,5 @@ I am a data analyst with experience in using various tools and technologies to c
 2. SQL & Tableau
   * ### Instagram Clone Data Analysis Project
     See on Tableau Public: Dashboard
-    Data Insertion SQL Script: [Here] (https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Intsagram%20Clone%20data%20Insertion%20-%20SQL)
-    Data Exploration SQL Script:  [Here] (https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Instagram%20clone%20data%20analysis%20-%20SQL)
+    Data Insertion SQL Script: [Here]:(https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Intsagram%20Clone%20data%20Insertion%20-%20SQL)
+    Data Exploration SQL Script:  [Here]:(https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Instagram%20clone%20data%20analysis%20-%20SQL)
