@@ -7,8 +7,9 @@ I am a data analyst with experience in using various tools and technologies to c
     - NYSE Project  
      _NYSE Analysis: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)_
       
-- **SQL & Tableau**  
-    - Instagram Clone Data Analysis Project  
-     _Profit analysis across california:_ [Here](https://public.tableau.com/app/profile/riddhikhokhariya/viz/ProfitAnalysisCalifornia/ProfitAnalysis)  
-     _Data Exploration SQL Script:_  [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Instagram%20clone%20data%20analysis%20-%20SQL)
+- **Tableau dashboard**  
+    - Analysed business growth for unicorn e-commerce site
+     _Profit analysis across california:_ [Here](https://public.tableau.com/app/profile/riddhikhokhariya/viz/ProfitAnalysisCalifornia/ProfitAnalysis)
+    I Used Tableau to perform exploratory data analysis and pulled unique insights from the dataset. Created a dashboard that will present the findings in a dynamic way.
+     
 
