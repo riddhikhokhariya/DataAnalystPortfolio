@@ -5,8 +5,10 @@ I am a data analyst with experience in using various tools and technologies to c
 
 1. Excel & Tableau
     * ### NYSE Project
-   _NYSE Analysis: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)_  
-
+      _NYSE Analysis: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)_  
+- [Lifecycle Callbacks](#lifecycle-callbacks)
+    - [The `constructor`](#the-constructor)
+    - [The `connectedCallback`](#the-connectedCallback)
 3. SQL & Tableau  
     * ### Instagram Clone Data Analysis Project
         _Data Insertion SQL Script: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Intsagram%20Clone%20data%20Insertion%20-%20SQL)   
