@@ -4,7 +4,7 @@ I am a data analyst with experience in using various tools and technologies to c
 ## I have used Python, SQl, Power BI, Tableau, and Excel. 
 
 - Excel & Tableau  
-    ## NYSE Project
+    ** NYSE Project **
     - _NYSE Analysis: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)_
       
 3. SQL & Tableau  
