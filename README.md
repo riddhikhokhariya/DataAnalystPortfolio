@@ -8,4 +8,5 @@ I am a data analyst with experience in using various tools and technologies to c
   * ### Instagram Clone Data Analysis Project
     See on Tableau Public: Dashboard
     Data Insertion SQL Script: [link text itself]: NYSE_Analysis.xlsx
-    Data Exploration SQL Script: [link text itself]: NYSE_Analysis.xlsx
+    Data Exploration SQL Script: [link text itself]: DataAnalystPortfolio
+/NYSE_Analysis.xlsx
