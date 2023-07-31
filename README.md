@@ -9,7 +9,7 @@ I am a data analyst with experience in using various tools and technologies to c
       
 - **Tableau dashboard**  
     - Analysed business growth for unicorn e-commerce site
-     _Profit analysis across california:_ [Here](https://public.tableau.com/app/profile/riddhikhokhariya/viz/ProfitAnalysisCalifornia/ProfitAnalysis)
-    I Used Tableau to perform exploratory data analysis and pulled unique insights from the dataset. Created a dashboard that will present the findings in a dynamic way.
+     _Profit analysis across california:_ [Here](https://public.tableau.com/app/profile/riddhikhokhariya/viz/ProfitAnalysisCalifornia/ProfitAnalysis)  
+      I Used Tableau to perform exploratory data analysis and pulled unique insights from the dataset. Created a dashboard that will present the findings in a dynamic way.
      
 
