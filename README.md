@@ -10,7 +10,7 @@ I am a data analyst with experience in using various tools and technologies to c
 - Excel & Tableau  
      #### **Instagram Clone Data Analysis Project**
     - _Data Insertion SQL Script:_ [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Intsagram%20Clone%20data%20Insertion%20-%20SQL)
-    -  Data Exploration SQL Script:  [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Instagram%20clone%20data%20analysis%20-%20SQL)
+    - _Data Exploration SQL Script:_  [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Instagram%20clone%20data%20analysis%20-%20SQL)
 
 3. SQL & Tableau  
     * ### Instagram Clone Data Analysis Project
