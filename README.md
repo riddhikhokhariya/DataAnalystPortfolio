@@ -9,11 +9,11 @@
      _**NYSE Financial Metrics**: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)_
 
 - **SQL**   
-     _Nashville Housing Dataset:_ [Data Cleaning](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)  
-     _COVID-19 Dataset:_ [Data Exploration](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)
+     _Nashville Housing Dataset:_ [Data Cleaning](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/SQL%20-%20Data%20Cleaning.sql)  
+     _COVID-19 Dataset:_ [Data Exploration](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/SQL%20-%20Data%20Exploration.sql)
 
 - **Python**   
-     _Movies Industry Dataset:_ [Exploratory Data Analysis](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)
+     _Movies Industry Dataset:_ [Exploratory Data Analysis](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Exploratory%20Data%20Analysis.md)
 
 - **Unicorn sales data from the years 2015-2018.**  
     - Analysed unicorn data, Created interesting insights, and identified weak areas and opportunities for Unicorn to boost business growth.  
