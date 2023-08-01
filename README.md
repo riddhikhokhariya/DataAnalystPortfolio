@@ -4,12 +4,12 @@ I am a data analyst with experience in using various tools and technologies to c
 ## I have used Python, SQl, Power BI, Tableau, and Excel. 
 
 - **NYSE Financial Metrics**  
-    - In this project, I have used statistics and spreadsheet programmes like Excel to analyse data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
-     _NYSE Analysis: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)_
+    - In this project, I have used statistics and spreadsheet programmes like Excel to analyse data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.  
+     _**Excel** - NYSE Analysis: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)_
       
 - **Unicorn sales data from the years 2015-2018.**  
-    - Analysed unicorn data, Created interesting insights, and identified weak areas and opportunities for Unicorn to boost business growth.
-     _Profit analysis across california:_ [Here](https://public.tableau.com/app/profile/riddhikhokhariya/viz/ProfitAnalysisCalifornia/ProfitAnalysis)  
+    - Analysed unicorn data, Created interesting insights, and identified weak areas and opportunities for Unicorn to boost business growth.  
+     _**Tableau** - Profit analysis across california:_ [Here](https://public.tableau.com/app/profile/riddhikhokhariya/viz/ProfitAnalysisCalifornia/ProfitAnalysis)  
       I Used Tableau to perform exploratory data analysis and pulled unique insights from the dataset. Created a dashboard that will present the findings in a dynamic way.
 <img width="960" alt="image" src="https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/3fea8503-5163-4a1f-9c77-7e0ab1a07a94">
 <img width="960" alt="image" src="https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/be9e745c-989e-440e-bfd6-92c29c1c6948">
@@ -20,13 +20,18 @@ I am a data analyst with experience in using various tools and technologies to c
 An American interactive data visualization software company with a business intelligence focus is Tableau Software. It was established in Mountain View, California, in 2003, and now has its main offices in Seattle, Washington. Salesforce purchased the business in 2019 for $15.7 billion.
 created an interactive dashboard using the Airbnb data, specifically the New York City dataset.
   
-     _Data Wrangling and Cleaning using python:_ [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Data%20Wrangling%20and%20Cleaning%20with%20Python)  
-     _Exploring the NYC airbnb market using python:_ [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Data%20Wrangling%20and%20Cleaning%20with%20Python)  
-     _Data Analysis and Insights Generation:_ [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Pillow%20Plooza%20Insights%20with%20SQL)  
-     _Presenting your findings for Business Impact:_  [Here](https://public.tableau.com/app/profile/riddhikhokhariya/viz/airbnb_nyc_dashboard/Dashboard1)
+     _**Python** - Data Wrangling and Cleaning:_ [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Data%20Wrangling%20and%20Cleaning%20with%20Python)  
+     _**Python** - Exploring the NYC airbnb market using python:_ [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Data%20Wrangling%20and%20Cleaning%20with%20Python)  
+     _**SQL**- Data Analysis and Insights Generation:_ [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Pillow%20Plooza%20Insights%20with%20SQL)  
+     _**Tableau** - Presenting your findings for Business Impact:_  [Here](https://public.tableau.com/app/profile/riddhikhokhariya/viz/airbnb_nyc_dashboard/Dashboard1)
   
 <img width="395" alt="image" src="https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/3a29fd33-d90e-4026-91c8-b9b65b49e224">
 <img width="395" alt="image" src="https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/08401f6d-64f8-4882-a3e2-6a7307c0cb7e">
 
-
+- **Tableau Ecommerce sales Dashboard**  
+      https://public.tableau.com/app/profile/riddhikhokhariya/viz/E-CommerceSalesDashboard_16908944691940/ExploratoryVisualAnalysis?publish=yes
+- **Tableau Retail Price Analytics Dashboard**
+     https://public.tableau.com/app/profile/riddhikhokhariya/viz/RetailPriceAnalyticsDashboard_16908945172720/RetailPricingAnalytics?publish=yes
+- **World Bank CO2 Emissions Dashboard:**
+    https://public.tableau.com/app/profile/riddhikhokhariya/viz/WorldBankCo2EmissionsDashboard_16908948861930/Dashboard1?publish=yes
 
