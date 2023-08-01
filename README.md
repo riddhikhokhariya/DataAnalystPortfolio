@@ -3,10 +3,17 @@ I am a data analyst with experience in using various tools and technologies to c
 
 ## I have used Python, SQl, Power BI, Tableau, and Excel. 
 
-- **NYSE Financial Metrics**  
+- **Excel**  
     - In this project, I have used statistics and spreadsheet programmes like Excel to analyse data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.  
-     _**Excel** - NYSE Analysis: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)_
-      
+     _**NYSE Financial Metrics**: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)_
+
+- **SQL**   
+     _Nashville Housing Dataset:_ [Data Cleaning](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)  
+     _COVID-19 Dataset:_ [Data Exploration](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)
+  
+- **Python**   
+     _Movies Industry Dataset:_ [Exploratory Data Analysis](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)
+  
 - **Unicorn sales data from the years 2015-2018.**  
     - Analysed unicorn data, Created interesting insights, and identified weak areas and opportunities for Unicorn to boost business growth.  
      _**Tableau** - Profit analysis across california:_ [Here](https://public.tableau.com/app/profile/riddhikhokhariya/viz/ProfitAnalysisCalifornia/ProfitAnalysis)  
