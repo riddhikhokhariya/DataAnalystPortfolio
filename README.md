@@ -34,6 +34,11 @@ created an interactive dashboard using the Airbnb data, specifically the New Yor
      _**Tableau** - Presenting your findings for Business Impact:_  [Here](https://public.tableau.com/app/profile/riddhikhokhariya/viz/airbnb_nyc_dashboard/Dashboard1)
   
 <img width="395" alt="image" src="https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/3a29fd33-d90e-4026-91c8-b9b65b49e224">
-<img width="395" alt="image" src="https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/08401f6d-64f8-4882-a3e2-6a7307c0cb7e">
-- **Tableau Ecommerce sales Dashboard**  
+<img width="395" alt="image" src="https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/08401f6d-64f8-4882-a3e2-6a7307c0cb7e">  
+
+ **Tableau Ecommerce sales Dashboard**  
       https://public.tableau.com/app/profile/riddhikhokhariya/viz/E-CommerceSalesDashboard_16908944691940/ExploratoryVisualAnalysis?publish=yes
+- **Tableau Retail Price Analytics Dashboard**
+     https://public.tableau.com/app/profile/riddhikhokhariya/viz/RetailPriceAnalyticsDashboard_16908945172720/RetailPricingAnalytics?publish=yes
+- **World Bank CO2 Emissions Dashboard:**
+    https://public.tableau.com/app/profile/riddhikhokhariya/viz/WorldBankCo2EmissionsDashboard_16908948861930/Dashboard1?publish=yes
