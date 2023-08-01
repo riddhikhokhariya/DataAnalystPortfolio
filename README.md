@@ -24,6 +24,9 @@ created an interactive dashboard using the Airbnb data, specifically the New Yor
      _Exploring the NYC airbnb market using python:_ [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Data%20Wrangling%20and%20Cleaning%20with%20Python)  
      _Data Analysis and Insights Generation:_ [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Pillow%20Plooza%20Insights%20with%20SQL)  
      _Presenting your findings for Business Impact:_  [Here](https://public.tableau.com/app/profile/riddhikhokhariya/viz/airbnb_nyc_dashboard/Dashboard1)
+  
+<img width="395" alt="image" src="https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/3a29fd33-d90e-4026-91c8-b9b65b49e224">
+<img width="395" alt="image" src="https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/08401f6d-64f8-4882-a3e2-6a7307c0cb7e">
 
 
 
