@@ -6,8 +6,6 @@
     - In this project, I have used statistics and spreadsheet programmes like Excel to analyse data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.  
      _**Excel** - NYSE Analysis: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)_
 
-     _**NYSE Financial Metrics**: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)_
-
 - **SQL**   
      _Nashville Housing Dataset:_ [Data Cleaning](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/SQL%20-%20Data%20Cleaning.sql)  
      _COVID-19 Dataset:_ [Data Exploration](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/SQL%20-%20Data%20Exploration.sql)
