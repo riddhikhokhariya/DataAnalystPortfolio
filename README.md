@@ -73,10 +73,18 @@ created an interactive dashboard using the Airbnb data, specifically the New Yor
     [View  Dashboard](https://public.tableau.com/app/profile/riddhikhokhariya/viz/WorldBankCo2EmissionsDashboard_16908948861930/Dashboard1?publish=yes)  
   <img width="836" alt="image" src="https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/1f7daa56-5d53-49ac-8aac-6122b824fc35">
 
+- **Sales Insights - Data Analysis using Tableau & SQL:**  
+   [View  Dashboard](https://public.tableau.com/app/profile/riddhikhokhariya/viz/SalesInsights_16909315903300/Dashboard-RevenueAnalysis?publish=yes)  
+  - Developed ETL mappings using SQL to extract the data from unstructured data and transformed it to the staging area to conduct data cleaning and design star schema data model on Tableau.  
+ -Developed a Tableau dashboard to perform analysis, producing quantitative visualizations in Tableau to draw valuable insights based on different parameters affecting the company performance year on year and further provide business solutions.  
+  
+  <img width="926" alt="image" src="https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/cbe697f6-10f7-4e68-a89e-a62aa90a0eb4">
+
 - **Question & Answer Dashboard:**
   <img width="836" alt="image" src="https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/5d1cbed9-4234-453a-bf37-bad190297407">
 
 - **KPIDashboard:**  
   <img width="836" alt="image" src="https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/5d1cbed9-4234-453a-bf37-bad190297407">
 
-
+- **Certificates:** 
+  - 
