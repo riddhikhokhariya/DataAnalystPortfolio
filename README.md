@@ -3,12 +3,12 @@ I am a data analyst with experience in using various tools and technologies to c
 
 ## I have used Python, SQl, Power BI, Tableau, and Excel. 
 
-- **Excel & Tableau**  
-    - NYSE Project  
+- **NYSE Financial Metrics**  
+    - In this project, I have used statistics and spreadsheet programmes like Excel to analyse data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
      _NYSE Analysis: [Here](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/NYSE_Analysis.xlsx)_
       
-- **Tableau dashboard**  
-    - Analysed business growth for unicorn e-commerce site
+- **Unicorn sales data from the years 2015-2018.**  
+    - Analysed unicorn data, Created interesting insights, and identified weak areas and opportunities for Unicorn to boost business growth.
      _Profit analysis across california:_ [Here](https://public.tableau.com/app/profile/riddhikhokhariya/viz/ProfitAnalysisCalifornia/ProfitAnalysis)  
       I Used Tableau to perform exploratory data analysis and pulled unique insights from the dataset. Created a dashboard that will present the findings in a dynamic way.
 <img width="960" alt="image" src="https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/3fea8503-5163-4a1f-9c77-7e0ab1a07a94">
