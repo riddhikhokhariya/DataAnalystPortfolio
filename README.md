@@ -30,7 +30,7 @@
     - **Results:** Company should look towards Disney based upon domestic gross per theater and win rate. This means that Our Company should on average target for a movie to be in a maxium of 3818 theaters at its peak.
 
 - **Tableau - Interactive Dashboard on Airbnb NYC Dataset**  
-       _**Python:**_ [Data Wrangling and Cleaning](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Data%20Wrangling%20and%20Cleaning%20with%20Python)  
+       _**Python:**_ [Data Wrangling and Cleaning](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/airbnb_analysis.ipynb)  
        _**Python:**_ [Exploring the NYC airbnb market](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Analysed%20NYC%20Airbnb.ipynb)  
        _**SQL:**_ [Data Analysis and Insights Generation](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Pillow%20Plooza%20Insights%20with%20SQL)  
        _**Tableau:**_  [Executive Dashboard](https://public.tableau.com/app/profile/riddhikhokhariya/viz/airbnb_nyc_dashboard/Dashboard1)  
