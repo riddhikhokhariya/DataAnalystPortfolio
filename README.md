@@ -89,7 +89,6 @@ created an interactive dashboard using the Airbnb data, specifically the New Yor
 - **Certificates:** 
   -  [Data Analytics](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Certificates/Data%20Analytics.pdf)  
   -  [Business Analytics](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Certificates/Business%20Analytics.pdf)  
-  -  [SQL I](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Certificates/SQL%20Part%20II.pdf)  
   -  [SQL II](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Certificates/SQL%20Part%20II.pdf)
   -  [Advanced SQL](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Certificates/Advanced%20SQL.pdf)
   -  [Analytics with Spreadsheet I](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Certificates/Analytics%20with%20spreadsheet%20I.pdf)
