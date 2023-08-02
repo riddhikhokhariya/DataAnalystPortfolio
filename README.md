@@ -34,7 +34,7 @@
        _**Python:**_ [Exploring the NYC airbnb market](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Analysed%20NYC%20Airbnb.ipynb)  
        _**SQL:**_ [Data Analysis and Insights Generation](https://github.com/riddhikhokhariya/DataAnalystPortfolio/blob/main/Pillow%20Plooza%20Insights%20with%20SQL)  
        _**Tableau:**_  [Executive Dashboard](https://public.tableau.com/app/profile/riddhikhokhariya/viz/airbnb_nyc_dashboard/Dashboard1)  
-       _**Tableau:**_  [New York airbnb Listing analysis](https://public.tableau.com/app/profile/riddhikhokhariya/viz/airbnb_nyc_dashboard/Dashboard1)
+       _**Tableau:**_  [New York airbnb Listing analysis](https://github.com/riddhikhokhariya/DataAnalystPortfolio/assets/130504900/08401f6d-64f8-4882-a3e2-6a7307c0cb7e)
    - **Description:** An American interactive data visualization software company with a business intelligence focus is Tableau Software. It was established in Mountain View, California, in 2003, and now has its main offices in Seattle, Washington. Salesforce purchased the business in 2019 for $15.7 billion.
 created an interactive dashboard using the Airbnb data, specifically the New York City dataset.
     - **Technology:** Python, SQL, Tableau.
